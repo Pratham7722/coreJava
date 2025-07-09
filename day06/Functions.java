@@ -264,6 +264,7 @@ Scanner sc = new Scanner(System.in);
 		int prod = s.nextInt();
 		
 		storeCheck(size, prod, arr1);
+		
 	}
 
 }
